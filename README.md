@@ -1,11 +1,11 @@
 ### 找到爱心的边框
 
 
-![Image](../Image.png)
+![Image](./images/Image.png)
 
-![image2](../Image2.png)
+![image2](./images/Image2.png)
 
-![image2](../Image3.png)
+![image2](./images/Image3.png)
 
 
 
